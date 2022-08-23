@@ -1,2 +1,2 @@
-# Class-1-CoderHouse-AballayJoaquin
- Exercise number 1 of Unity
+# FinalProject-CoderHouse-AballayJoaquin
+ Final Project of Unity´s course of CoderHouse.
