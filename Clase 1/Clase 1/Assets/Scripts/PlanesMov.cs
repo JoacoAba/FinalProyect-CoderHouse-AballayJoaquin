@@ -6,8 +6,6 @@ public class PlanesMov : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField]
-    GameObject Plane;
-    [SerializeField]
     [Range(3,8)]
     private float speed = 3f;
     void Start()
